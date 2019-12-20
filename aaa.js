@@ -14,5 +14,6 @@ var yu = 1;
    const a = require ('./bbb.js')
    console.log(a.add(2,2));
    console.log('12344');
+   console.log('你是谁');
    
    
